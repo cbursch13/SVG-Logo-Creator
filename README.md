@@ -23,7 +23,7 @@
   ## Usage
   You need to download the application and download all of the packages and dependencies using the command line.
   Take a look at this walkthrough video on how you can use this application.
-  https://drive.google.com/file/d/1U5McB2jvGIDlVhqf0cElZbkiQls02bA4/view
+  https://drive.google.com/file/d/1VV4GhjZ4-tfMTN_boZQuqO_5Cyi2-bEH/view
 
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
